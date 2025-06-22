@@ -12,7 +12,7 @@ Currently it includes **GPIO trigger wiring**, and I plan to add **TX/RX serial 
 
 https://www.adafruit.com/product/2341?srsltid=AfmBOoqo-2Fsb_rQpy9WKouc7SDNTpPuInldPQFMppBZ0YTIr9e20Kbb
 
-![adafruit-audio-fx-mini-soundboard-16mb](https://github.com/user-attachments/assets/f13b5360-188a-47fb-a054-afd511e08197)
+![adafruit-audio-fx-mini-soundboard-16mb](https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/adafruit-audio-fx-mini-soundboard-16mb.jpg)
 
 
 ## 📦 TPA3116D2 Mono 100W Digital Power Amplifier Board Digital Audio Amplifier Board DC 12-26V
@@ -27,7 +27,7 @@ https://www.amazon.com/dp/B0CG9F45LV?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_
 https://www.amazon.com/dp/B000230LBI?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
 
 
-![81+RjVzpHwL _AC_SL1500_](https://github.com/user-attachments/assets/892ceb86-cf83-43dd-b873-8eb079f2b3bf)
+![Screenshot of PYLE 4" Car sound speaker](https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/12V-battery.jpg)
 
 
 ## 📦 12V 7Ah Lithium Ion Battery
@@ -35,7 +35,7 @@ https://www.amazon.com/dp/B000230LBI?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_
 https://www.amazon.com/dp/B0CNM52CBL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_9&th=1
 
 
-![12V-battery](https://github.com/user-attachments/assets/d97ad5f7-0c03-426a-b231-8cf45e390e6d)
+![12V-battery](https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/12V-battery.jpg)
 
 
 ## 📦 Header pins

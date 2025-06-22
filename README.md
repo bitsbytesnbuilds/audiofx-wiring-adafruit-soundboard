@@ -19,7 +19,7 @@ https://www.adafruit.com/product/2341?srsltid=AfmBOoqo-2Fsb_rQpy9WKouc7SDNTpPuIn
 
 https://www.amazon.com/dp/B0CG9F45LV?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
-![TPA3116D2-digital-audio-amp](https://github.com/user-attachments/assets/3d0e9676-4fbf-4f8c-b029-ac9881f2ca9d)
+https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/TPA3116D2-digital-audio-amp.jpg
 
 
 ## 📦 Pyle 4" Car Sound Speaker (Pair) - Upgraded Blue Poly Injection Cone 2-Way 180 Watt Peak w/ Non-fatiguing Butyl Rubber Surround 110 - 20Khz Frequency Response 4 Ohm & 3/4" ASV Voice Coil - PL42BL

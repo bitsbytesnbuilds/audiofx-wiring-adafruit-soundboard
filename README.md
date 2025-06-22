@@ -7,7 +7,6 @@
 Sharing the wiring diagrams for the Adafruit Audio FX mini sound board (16MB) using GPIO triggers, this repo has what worked for me in my DIY builds!  
 Currently it includes **GPIO trigger wiring**, and I plan to add **TX/RX serial control** in a future update.
 
----
 
 ## 📦 Board: Adafruit Audio FX Sound Board – WAV/OGG Trigger with 16MB Flash
 
@@ -27,13 +26,17 @@ https://www.amazon.com/dp/B0CG9F45LV?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_
 
 https://www.amazon.com/dp/B000230LBI?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
 
+
 ![81+RjVzpHwL _AC_SL1500_](https://github.com/user-attachments/assets/892ceb86-cf83-43dd-b873-8eb079f2b3bf)
+
 
 ## 📦 12V 7Ah Lithium Ion Battery
 
 https://www.amazon.com/dp/B0CNM52CBL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_9&th=1
 
+
 ![12V-battery](https://github.com/user-attachments/assets/d97ad5f7-0c03-426a-b231-8cf45e390e6d)
+
 
 ## 📦 Header pins
 ## 📦 Dupont wires, jumper cables

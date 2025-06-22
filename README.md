@@ -27,7 +27,7 @@ https://www.amazon.com/dp/B0CG9F45LV?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_
 https://www.amazon.com/dp/B000230LBI?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
 
 
-![Screenshot of PYLE 4" Car sound speaker](https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/12V-battery.jpg)
+![Screenshot of PYLE 4" Car sound speaker](https://github.com/bitsbytesnbuilds/audiofx-wiring-adafruit-soundboard/blob/main/BOM/81%2BRjVzpHwL._AC_SL1500_.jpg)
 
 
 ## 📦 12V 7Ah Lithium Ion Battery
